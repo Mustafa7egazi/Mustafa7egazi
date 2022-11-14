@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa7egazi&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa7egazi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mustafa7egazi" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa7egazi?logo=twitter&style=for-the-badge" alt="mustafa7egazi" /></a> </p>
 
 - 🔭 I’m currently studying at **FCI - Menofia university**
 
